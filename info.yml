@@ -1,12 +1,13 @@
+
 # For all info and  up-to-date list of accepted values, see https://git.generalassemb.ly/sei-nyc/start-here/blob/master/info_schema.md: 
 
 # Required fields: unit, section and type
 
-unit: (unit here)
+unit: 3
 
-section: (section here)
+section: express
 
-type: (type here)
+type: exercise
 
 
 # optional fields:
@@ -14,4 +15,3 @@ type: (type here)
   # prereqs
   # orderingID
   # ...and maybe more! https://git.generalassemb.ly/sei-nyc/start-here/blob/master/info_schema.md:
-  
