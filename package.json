@@ -1,0 +1,16 @@
+{
+  "name": "express-crud-exercise",
+  "version": "1.0.0",
+  "description": "### Let's Build an Express API!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/jamespmernin/express-crud-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
